@@ -101,3 +101,5 @@ streamlit
 pandas
 plotly
 numpy
+folium
+matplotlib
